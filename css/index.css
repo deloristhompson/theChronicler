@@ -1,0 +1,54 @@
+body {
+  background-color: #ffebcd;
+  text-align: center;
+}
+ul {
+    list-style-type: none;
+    color: red;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: red;
+    overflow: hidden;
+    background-color: #333;
+}
+
+h2 #cr a:hover{
+  color: white;
+  float: left;
+  text-decoration: none
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    font-family: "Papyrus", fantasy;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+ #something {
+   border-style: hidden;
+   width: 100%;
+   padding: 0;
+   margin: 0
+ }
+
+ .container {
+   text-align: center;
+   width: 200px;
+   max-width: 100%;
+   display: block;
+   margin-left: 45%;
+
+ }
